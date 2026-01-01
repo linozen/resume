@@ -1,0 +1,106 @@
+# Base configuration
+base_url = "https://sehn.dev"
+title = "Linus Sehn"
+description = "Tech Generalist and budding Psychotherapist"
+compile_sass = true
+minify_html = false
+build_search_index = false
+
+[markdown]
+highlight_code = false
+
+[extra]
+# Personal information
+name = "Linus Sehn"
+initials = "LZ"
+location = "Mannheim, Germany, CET"
+location_link = "https://www.google.com/maps/place/Mannheim"
+avatar_url = "/avatar.jpg"
+
+about = "Tech Generalist and budding Psychotherapist with a Master's in International Relations. Also available for freelance work at the intersection of technology and society."
+
+summary = "I think of myself as a generalist rooted in a foundation of political science, philosophy, economics, and now, psychology. I hold a Master's degree in International Relations and my career thus far has spanned roles in open-source software engineering and system administration, academia and think tanks. With several years of experience managing projects and managing technical systems, I'm adept at navigating complex environments and delivering solutions that meet diverse needs. Currently training as a psychotherapist, I am keen on applying a humanist perspective to my technical work, aiming to improve our individual and collective relationships with emerging technologies."
+
+personal_website = "https://exocortex.sehn.dev"
+email = "hi@sehn.dev"
+github = "https://github.com/linozen"
+
+# Education entries
+[[extra.education]]
+school = "University of Mannheim"
+degree = "BSc in Psychology"
+start = "2023"
+end = "2026"
+
+[[extra.education]]
+school = "FU Berlin, HU Berlin, University of Potsdam"
+degree = "MA in International Relations"
+start = "2017"
+end = "2022"
+
+[[extra.education]]
+school = "University of Manchester"
+degree = "BA(Hons) in Politics, Philosophy & Economics"
+start = "2014"
+end = "2017"
+
+# Work experience entries
+[[extra.work]]
+company = "Otto Selz Institute"
+link = "https://www.uni-mannheim.de/en/osi/"
+badges = ["On-site", "10h/week"]
+title = "Technical Consultant"
+start = "2024"
+end = "current"
+description = "Responsible for the internal IT infrastructure and the technical aspects of conducting psychological experiments (e.g. eye tracking)."
+
+[[extra.work]]
+company = "Free Software Foundation Europe"
+link = "https://fsfe.org"
+badges = ["Remote", "Full-time"]
+title = "Senior Project Manager & System Administrator"
+start = "2021"
+end = "2023"
+description = "Modernized the FSFE's fully self-owned, free-software infrastructure stack. Implemented new features to internal donation and member management tools. Won the EU Datathon 2022 (25.000€) with the TEDective project. Worked on the REUSE 1.0.0 release."
+
+[[extra.work]]
+company = "Stiftung Neue Verantwortung (now Interface)"
+link = "https://www.stiftung-nv.de/"
+badges = ["On-Site", "10h/week"]
+title = "Research Assistant"
+start = "2021"
+end = "2022"
+description = "Supported the GUARDINT project by conducting data analysis and developing web-based visualisations."
+
+[[extra.work]]
+company = "Federal Foreign Office"
+link = "https://www.auswaertiges-amt.de/en/"
+badges = ["On-Site", "Full-time"]
+title = "Internship"
+start = "Jan 2020"
+end = "Apr 2020"
+description = "Analysed countries' positions on allowing foreign companies to provide 5G infrastructure using both confidential and open sources."
+
+[[extra.work]]
+company = "Free University of Berlin"
+link = "https://blogs.fu-berlin.de/tatas/team/"
+badges = ["On-Site", "12h/week"]
+title = "Research Assistant to Prof. Dr. Lora Anne Viola Ph.D."
+start = "Aug 2019"
+end = "Dec 2019"
+description = "Presented a paper at and supported the organisation of the project's section at the 2019 ECPR Conference and participated in and contributed to the project's workshop in Krakow hosting some of the leading scholars in the field of surveillance studies."
+
+# Projects
+[[extra.projects]]
+title = "Excortex"
+tech_stack = ["TypeScript", "Non-linear thinking", "Zettelkasten"]
+description = "My personal zettelkasten and blog, built with Quartz. I use it to improve my thinking."
+link_label = "exocortex.sehn.dev"
+link_href = "https://exocortex.sehn.dev/"
+
+[[extra.projects]]
+title = "TEDective"
+tech_stack = ["Public procurement", "TypeScript", "Next.js", "Python", "KuzuDB", "Graph Analytics"]
+description = "Tool to make European public procurement data more accessible and transparent. Won the 2022 EU Datathon."
+link_label = "tedective.org"
+link_href = "https://tedective.org/"
