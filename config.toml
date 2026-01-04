@@ -14,8 +14,10 @@ highlight_code = false
 about_section = "About"
 work_section = "Work Experience"
 publications_section = "Publications"
+talks_section = "Talks & Presentations"
 education_section = "Education"
 awards_section = "Awards & Honors"
+download_cv = "Download CV"
 
 [languages.de]
 title = "Linus Sehn"
@@ -26,8 +28,10 @@ build_search_index = false
 about_section = "Über mich"
 work_section = "Berufserfahrung"
 publications_section = "Publikationen"
+talks_section = "Vorträge & Präsentationen"
 education_section = "Ausbildung"
 awards_section = "Auszeichnungen"
+download_cv = "CV herunterladen"
 
 [extra]
 # Personal information

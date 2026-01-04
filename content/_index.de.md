@@ -135,4 +135,23 @@ pages = "423-443"
 year = "2020"
 doi = "10.18716/ojs/krimoj/2020.3.3"
 url = "https://doi.org/10.18716/ojs/krimoj/2020.3.3"
+
+# Talks and Presentations
+[[extra.talks]]
+title = "Ringvorlesung: Technologie und Intimität - Dating Apps versprechen Nähe durch Technik. Funktioniert das? Was braucht Technologie, um uns zusammen zu bringen?"
+venue = "Hochschule Niederrhein"
+date = "2024"
+url = "https://www.hs-niederrhein.de/event-detail/termin/ringvorlesung-technologie-und-intimitaet-dating-apps-versprechen-naehe-durch-technik-funktioniert-das-was-braucht-technologie-um-uns-zusammen-zu-bringen-1/"
+
+[[extra.talks]]
+title = "TEDective: Transparent public spending data through graph analysis"
+venue = "FOSDEM 2023"
+date = "2023"
+url = "https://archive.fosdem.org/2023/schedule/event/graph_tedective/"
+
+[[extra.talks]]
+title = "EU Datathon Final Presentation"
+venue = "Publications Office of the European Union"
+date = "2022"
+url = "https://media.fsfe.org/w/x1buMiq6k7nNyCRj5nxJ52"
 +++

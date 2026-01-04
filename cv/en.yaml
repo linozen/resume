@@ -1,0 +1,390 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.6/schema.json
+cv:
+  name: Linus Sehn
+  headline: Software Engineer & Psychology Student
+  location: Mannheim, Germany
+  email: hi@sehn.dev
+  photo:
+  # phone:
+  website: https://linozen.com/
+  social_networks:
+    - network: GitHub
+      username: linozen
+  custom_connections:
+  sections:
+    education:
+      - institution: University of Mannheim
+        area: Psychology
+        degree: BSc
+        date:
+        start_date: 2023-09
+        end_date: 2026-07
+        location: Mannheim, Germany
+        summary:
+        highlights:
+          - Training to become a psychotherapist
+          - Focus on clinical psychology and psychotherapy
+      - institution: FU Berlin, HU Berlin & University of Potsdam
+        area: International Relations
+        degree: MA
+        date:
+        start_date: 2017-09
+        end_date: 2022-07
+        location: Berlin, Germany
+        summary:
+        highlights:
+          - MAIB Berlin (Master in International Relations Berlin)
+          - Research focus on surveillance studies and technology policy
+      - institution: University of Manchester
+        area: Politics, Philosophy & Economics
+        degree: BA (Hons)
+        date:
+        start_date: 2014-09
+        end_date: 2017-07
+        location: Manchester, UK
+        summary:
+        highlights:
+          - First Class Honours
+          - Dean's Award for Achievement (top 0.5% of graduating class)
+          - PPE Final Year Award (highest overall grade in programme)
+      - institution: SciencesPo
+        area: Political Science
+        degree: Erasmus Semester
+        date:
+        start_date: 2016-01
+        end_date: 2016-06
+        location: Paris, France
+        summary:
+        highlights:
+          - Exchange semester in Political Science
+    experience:
+      - company: iptas
+        position: Software Engineer
+        date:
+        start_date: 2024-01
+        end_date: present
+        location: Remote
+        summary:
+        highlights:
+          - Developing AI-powered therapy documentation module for psychotherapists
+          - Full-stack development focusing on transcription, summarization, and document generation
+          - Integrating Speech-to-Text models and implementing AI analysis workflows
+          - Building editing interfaces while ensuring healthcare compliance and data protection
+      - company: Otto Selz Institute for Applied Psychology
+        position: Technical Consultant
+        date:
+        start_date: 2024-01
+        end_date: 2025-12
+        location: Mannheim, Germany
+        summary:
+        highlights:
+          - Managing IT infrastructure and experimental technology for psychological research
+          - Researching open-source speech-to-text models and LLMs in psychotherapy
+          - Supporting specialized equipment including eye tracking systems
+          - Developing tools for secure management of RStudio environments
+      - company: Free Software Foundation Europe
+        position: Senior Project Manager & System Administrator
+        date:
+        start_date: 2021-01
+        end_date: 2023-09
+        location: Berlin, Germany
+        summary:
+        highlights:
+          - Led projects to modernize self-hosted free-software infrastructure
+          - Enhanced donation and member management tools used by the organization
+          - Won EU Datathon 2022 with €25,000 prize for TEDective project analyzing European procurement data
+          - Contributed to REUSE 1.0.0 release for software licensing best practices
+      - company: Stiftung Neue Verantwortung (now Interface)
+        position: Research Assistant
+        date:
+        start_date: 2021-01
+        end_date: 2022-12
+        location: Berlin, Germany
+        summary:
+        highlights:
+          - Conducted data analysis and created web-based visualizations for the GUARDINT project
+          - Supported research on intelligence oversight and accountability
+      - company: Federal Foreign Office
+        position: Intern
+        date:
+        start_date: 2020-01
+        end_date: 2020-04
+        location: Berlin, Germany
+        summary:
+        highlights:
+          - Analyzed international positions on 5G infrastructure providers using confidential and open-source intelligence
+          - Supported streamlining of internal processes including election management (ITU, ICAO, UPU)
+          - Participated in inter-ministerial workshops preparing for Digital Summit 2020
+      - company: Free University of Berlin
+        position: Research Assistant to Prof. Dr. Lora Anne Viola
+        date:
+        start_date: 2019-08
+        end_date: 2019-12
+        location: Berlin, Germany
+        summary:
+        highlights:
+          - Supported TATAS project on transatlantic surveillance studies
+          - Presented paper at 2019 ECPR Conference in Wrocław
+          - Organized and contributed to expert workshop in Krakow with leading surveillance studies scholars
+          - Conducted web scraping and data analysis using Python and Zotero
+      - company: KPMG Public Sector Consulting
+        position: Working Student
+        date:
+        start_date: 2018-11
+        end_date: 2019-07
+        location: Berlin, Germany
+        summary:
+        highlights:
+          - Developed process-mining approach for public sector applications
+          - Created and analyzed architectural views according to NATO Architecture Framework (NAF)
+      - company: KPMG Public Sector Consulting
+        position: Intern
+        date:
+        start_date: 2018-08
+        end_date: 2018-10
+        location: Cologne, Germany
+        summary:
+        highlights:
+          - Designed and implemented budget and controlling dashboards in Excel VBA for internal and client use
+          - Gained proficiency in handling classified information in both physical and digital formats
+          - Participated in senior management meetings and summarized results
+    projects:
+      - name: "[TEDective](https://fsfe.org/news/2022/news-20221026-01.en.html)"
+        date: "2022"
+        start_date:
+        end_date:
+        location:
+        summary: EU Datathon 2022 winning project for analyzing European procurement data
+        highlights:
+          - Won first place and €25,000 prize
+          - Developed software prototype for analyzing European tender and contract data
+      - name: Social Science Working Group on Digitization, Ethics & Society
+        date:
+        start_date: 2018-01
+        end_date: 2020-12
+        location:
+        summary: Studienstiftung interdisciplinary research group on technology and society
+        highlights:
+          - Led by Prof. Dr. Tamar Sharon and Prof. Dr. Rudolf Müller
+          - Focused on societal implications of predictive policing in Germany
+          - Published research findings in peer-reviewed journal
+    publications:
+      - title: "Zum Diktat, Language Model: Transkription, Sprecher*Innenzuordnung und Verarbeitung von Therapiegesprächen mit KI"
+        authors:
+          - Taubitz, F.-S.
+          - "*Sehn, L. H. A.*"
+          - Alpers, G. W.
+        summary:
+        doi: 10.1159/000549546
+        url: https://doi.org/10.1159/000549546
+        journal: Verhaltenstherapie
+        date: 2025-01
+      - title: "Jenseits von Effektivität – Zur Legitimierung von Predictive Policing in Deutschland"
+        authors:
+          - Vepřek, L. H.
+          - Sibert, L.
+          - "*Sehn, L.*"
+          - Köpp, L.
+          - Friedrich, D.
+        summary:
+        doi: 10.18716/ojs/krimoj/2020.3.3
+        url: https://doi.org/10.18716/ojs/krimoj/2020.3.3
+        journal: Kriminologie - Das Online-Journal, 2(3), 423-443
+        date: 2020-12
+    selected_honors:
+      - bullet: 1st Place EU Datathon 2022 (€25,000 prize)
+      - bullet: Dean's Award for Achievement, University of Manchester (2017, top 0.5%)
+      - bullet: PPE Final Year Award, University of Manchester (2017, highest grade)
+      - bullet: Full Scholarship, Studienstiftung des deutschen Volkes (2015–2022)
+    skills:
+      - label: Programming Languages
+        details: Python, Go, JavaScript, Bash, R
+      - label: Technologies & Frameworks
+        details: Docker, Linux, Git, SQL, HTML/CSS, LaTeX
+      - label: AI & Data Science
+        details: Speech-to-Text models, LLMs, Data analysis, Web scraping
+      - label: Domain Knowledge
+        details: Software architecture, Healthcare IT compliance, Research methodology
+      - label: Natural Languages
+        details: German (native), English (C2), French (B1-B2), Italian (B1)
+design:
+  theme: engineeringresumes
+  page:
+    size: a4
+  #   top_margin: 0.7in
+  #   bottom_margin: 0.7in
+  #   left_margin: 0.7in
+  #   right_margin: 0.7in
+  #   show_footer: true
+  #   show_top_note: true
+  # colors:
+  #   body: rgb(0, 0, 0)
+  #   name: rgb(0, 79, 144)
+  #   headline: rgb(0, 79, 144)
+  #   connections: rgb(0, 79, 144)
+  #   section_titles: rgb(0, 79, 144)
+  #   links: rgb(0, 79, 144)
+  #   footer: rgb(128, 128, 128)
+  #   top_note: rgb(128, 128, 128)
+  # typography:
+  #   line_spacing: 0.6em
+  #   alignment: justified
+  #   date_and_location_column_alignment: right
+  #   font_family:
+  #     body: Source Sans 3
+  #     name: Source Sans 3
+  #     headline: Source Sans 3
+  #     connections: Source Sans 3
+  #     section_titles: Source Sans 3
+  #   font_size:
+  #     body: 10pt
+  #     name: 30pt
+  #     headline: 10pt
+  #     connections: 10pt
+  #     section_titles: 1.4em
+  #   small_caps:
+  #     name: false
+  #     headline: false
+  #     connections: false
+  #     section_titles: false
+  #   bold:
+  #     name: true
+  #     headline: false
+  #     connections: false
+  #     section_titles: true
+  # links:
+  #   underline: false
+  #   show_external_link_icon: false
+  # header:
+  #   alignment: center
+  #   photo_width: 3.5cm
+  #   photo_position: left
+  #   photo_space_left: 0.4cm
+  #   photo_space_right: 0.4cm
+  #   space_below_name: 0.7cm
+  #   space_below_headline: 0.7cm
+  #   space_below_connections: 0.7cm
+  #   connections:
+  #     phone_number_format: national
+  #     hyperlink: true
+  #     show_icons: true
+  #     display_urls_instead_of_usernames: false
+  #     separator: ''
+  #     space_between_connections: 0.5cm
+  # section_titles:
+  #   type: with_partial_line
+  #   line_thickness: 0.5pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
+  # sections:
+  #   allow_page_break: true
+  #   space_between_regular_entries: 1.2em
+  #   space_between_text_based_entries: 0.3em
+  #   show_time_spans_in:
+  #     - experience
+  # entries:
+  #   date_and_location_width: 4.15cm
+  #   side_space: 0.2cm
+  #   space_between_columns: 0.1cm
+  #   allow_page_break: false
+  #   short_second_row: true
+  #   summary:
+  #     space_above: 0cm
+  #     space_left: 0cm
+  #   highlights:
+  #     bullet: •
+  #     nested_bullet: •
+  #     space_left: 0.15cm
+  #     space_above: 0cm
+  #     space_between_items: 0cm
+  #     space_between_bullet_and_text: 0.5em
+  # templates:
+  #   footer: '*NAME -- PAGE_NUMBER/TOTAL_PAGES*'
+  #   top_note: '*LAST_UPDATED CURRENT_DATE*'
+  #   single_date: MONTH_ABBREVIATION YEAR
+  #   date_range: START_DATE – END_DATE
+  #   time_span: HOW_MANY_YEARS YEARS HOW_MANY_MONTHS MONTHS
+  #   one_line_entry:
+  #     main_column: '**LABEL:** DETAILS'
+  #   education_entry:
+  #     main_column: |-
+  #       **INSTITUTION**, AREA
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     degree_column: '**DEGREE**'
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   normal_entry:
+  #     main_column: |-
+  #       **NAME**
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   experience_entry:
+  #     main_column: |-
+  #       **COMPANY**, POSITION
+  #       SUMMARY
+  #       HIGHLIGHTS
+  #     date_and_location_column: |-
+  #       LOCATION
+  #       DATE
+  #   publication_entry:
+  #     main_column: |-
+  #       **TITLE**
+  #       SUMMARY
+  #       AUTHORS
+  #       URL (JOURNAL)
+  #     date_and_location_column: DATE
+locale:
+  language: english
+  # last_updated: Last updated in
+  # month: month
+  # months: months
+  # year: year
+  # years: years
+  # present: present
+  # month_abbreviations:
+  #   - Jan
+  #   - Feb
+  #   - Mar
+  #   - Apr
+  #   - May
+  #   - June
+  #   - July
+  #   - Aug
+  #   - Sept
+  #   - Oct
+  #   - Nov
+  #   - Dec
+  # month_names:
+  #   - January
+  #   - February
+  #   - March
+  #   - April
+  #   - May
+  #   - June
+  #   - July
+  #   - August
+  #   - September
+  #   - October
+  #   - November
+  #   - December
+settings:
+  current_date: "2026-01-04"
+  render_command:
+    design:
+    locale:
+    typst_path: cv_en.typ
+    pdf_path: ../static/cv_en.pdf
+    # markdown_path: en/NAME_IN_SNAKE_CASE_CV.md
+    # html_path: en/NAME_IN_SNAKE_CASE_CV.html
+    # png_path: en/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: true
+    dont_generate_html: true
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: true
+  bold_keywords: []

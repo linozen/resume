@@ -158,10 +158,72 @@
                 </svg>
                 GitHub
             </a>
+            <a
+                href="https://orcid.org/0009-0009-3137-8202"
+                target="orcid.widget"
+                rel="me noopener noreferrer"
+                class="button"
+            >
+                <img
+                    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+                    alt="ORCID iD icon"
+                    class="icon"
+                    style="width: 1em; height: 1em"
+                />
+                ORCID
+            </a>
+            {% if lang == "en" %}
+            <a
+                href="/cv_en.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="button"
+            >
+                <svg
+                    class="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                >
+                    <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                    ></path>
+                </svg>
+                {{ trans(key="download_cv", lang=lang) }}
+            </a>
+            {% else %}
+            <a
+                href="/cv_de.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="button"
+            >
+                <svg
+                    class="icon"
+                    fill="none"
+                    stroke="currentColor"
+                    viewBox="0 0 24 24"
+                >
+                    <path
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="2"
+                        d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"
+                    ></path>
+                </svg>
+                {{ trans(key="download_cv", lang=lang) }}
+            </a>
+            {% endif %}
         </div>
 
         <div class="contact-print">
-            <p>{{ section.extra.email }} • {{ section.extra.github }}</p>
+            <p>
+                {{ section.extra.email }} • {{ section.extra.github }} •
+                https://orcid.org/0009-0009-3137-8202
+            </p>
         </div>
     </header>
 
@@ -250,6 +312,38 @@
                         </p>
                     </div>
                     <div class="date-range">{{ pub.year }}</div>
+                </div>
+            </article>
+            {% endfor %}
+        </div>
+    </section>
+    {% endif %}
+
+    <!-- Talks and Presentations Section -->
+    {% if section.extra.talks %}
+    <section class="section">
+        <h2 class="section-title">
+            {{ trans(key="talks_section", lang=lang) }}
+        </h2>
+        <div class="list">
+            {% for talk in section.extra.talks %}
+            <article class="card">
+                <div class="card-header">
+                    <div class="card-header-content">
+                        <h3 class="card-title">
+                            {% if talk.url %}
+                            <a
+                                href="{{ talk.url }}"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                {{ talk.title }}
+                            </a>
+                            {% else %} {{ talk.title }} {% endif %}
+                        </h3>
+                        <p class="pub-meta">{{ talk.venue }}</p>
+                    </div>
+                    <div class="date-range">{{ talk.date }}</div>
                 </div>
             </article>
             {% endfor %}
