@@ -22,6 +22,7 @@ personal_website_url = "https://exocortex.sehn.dev"
 personal_website_title = "Exocortex"
 email = "hi@sehn.dev"
 github = "https://github.com/linozen"
+linkedin = "https://www.linkedin.com/in/linussehn/"
 cal_link = "https://cal.linozen.com/linozen"
 
 # Education entries
