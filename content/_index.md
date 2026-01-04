@@ -23,7 +23,7 @@ personal_website_title = "Exocortex"
 email = "hi@sehn.dev"
 github = "https://github.com/linozen"
 linkedin = "https://www.linkedin.com/in/linussehn/"
-cal_link = "https://cal.linozen.com/linozen"
+cal_link = "https://cal.sehn.dev/linozen"
 
 # Education entries
 [[extra.education]]
@@ -139,7 +139,7 @@ url = "https://doi.org/10.18716/ojs/krimoj/2020.3.3"
 
 # Talks and Presentations
 [[extra.talks]]
-title = "Ringvorlesung: Technologie und Intimität - Dating Apps versprechen Nähe durch Technik. Funktioniert das? Was braucht Technologie, um uns zusammen zu bringen?"
+title = "Technologie und Intimität: Dating Apps versprechen Nähe durch Technik. Was braucht Technologie, um uns zusammen zu bringen?"
 venue = "Hochschule Niederrhein"
 date = "2024"
 url = "https://www.hs-niederrhein.de/event-detail/termin/ringvorlesung-technologie-und-intimitaet-dating-apps-versprechen-naehe-durch-technik-funktioniert-das-was-braucht-technologie-um-uns-zusammen-zu-bringen-1/"
