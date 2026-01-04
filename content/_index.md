@@ -12,7 +12,7 @@ location_link = "https://www.google.com/maps/place/Mannheim"
 
 about = "Software engineer specializing in psychology applications, currently studying psychology to become a psychotherapist."
 
-summary = """I'm a software engineer and psychology student who bridges technical expertise with psychological insights. My current work focuses on developing AI-powered therapy documentation at iptas, where I'm building tools that help therapists spend less time on paperwork and more time with their clients.
+summary = """I'm a software engineer and psychology student who bridges technical expertise with psychological insights. My current work focuses on developing AI-powered therapy documentation at iptas, where I'm building tools that help therapists spend less time on paperwork and more time with their clients. Beyond documentation, we're working to improve the quality of therapy itself by integrating the newest research directly into therapeutic practice.
 
 I've published research on using AI in therapeutic settings (Verhaltenstherapie, 2025) and co-authored work on the legitimization of predictive policing. Before diving into psychology, I spent several years in the free software world, leading technical infrastructure at the Free Software Foundation Europe and winning the EU Datathon 2022 with a €25,000 prize.
 
