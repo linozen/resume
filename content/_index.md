@@ -10,9 +10,13 @@ initials = "LZ"
 location = "Mannheim, Germany, CET"
 location_link = "https://www.google.com/maps/place/Mannheim"
 
-about = "Systems engineer specializing in psychology applications, currently studying psychology to become a psychotherapist."
+about = "Software engineer specializing in psychology applications, currently studying psychology to become a psychotherapist."
 
-summary = "Software engineer and psychology student combining technical expertise with psychological insights. Currently developing AI therapy documentation at iptas. Published research on AI in therapeutic settings (Verhaltenstherapie, 2025) and predictive policing legitimization. Previously researched speech-to-text models for psychotherapy at Otto-Selz-Institute and led technical infrastructure at Free Software Foundation Europe, winning the EU Datathon 2022 (€25,000). Background in International Relations with lived experience in Manchester, Paris, and Berlin."
+summary = """I'm a software engineer and psychology student who bridges technical expertise with psychological insights. My current work focuses on developing AI-powered therapy documentation at iptas, where I'm building tools that help therapists spend less time on paperwork and more time with their clients.
+
+I've published research on using AI in therapeutic settings (Verhaltenstherapie, 2025) and co-authored work on the legitimization of predictive policing. Before diving into psychology, I spent several years in the free software world, leading technical infrastructure at the Free Software Foundation Europe and winning the EU Datathon 2022 with a €25,000 prize.
+
+My path has taken me through International Relations studies in Berlin, Manchester, and Paris, which taught me to think about technology's broader social implications—something that now informs how I approach both software development and therapeutic practice."""
 
 personal_website_url = "https://exocortex.sehn.dev"
 personal_website_title = "Exocortex"

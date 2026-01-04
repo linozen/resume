@@ -170,7 +170,12 @@
         <h2 class="section-title">
             {{ trans(key="about_section", lang=lang) }}
         </h2>
-        <p class="summary">{{ section.extra.summary }}</p>
+        <div class="summary">
+            {% set paragraphs = section.extra.summary | split(pat="\n\n") %} {%
+            for paragraph in paragraphs %}
+            <p>{{ paragraph | trim }}</p>
+            {% endfor %}
+        </div>
     </section>
 
     <!-- Work Experience Section -->

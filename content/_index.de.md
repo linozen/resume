@@ -12,7 +12,11 @@ location_link = "https://www.google.com/maps/place/Mannheim"
 
 about = "Systemingenieur mit Schwerpunkt auf psychologische Anwendungen, studiert derzeit Psychologie um Psychotherapeut zu werden."
 
-summary = "Software-Ingenieur und Psychologie-Student, der technisches Fachwissen mit psychologischen Erkenntnissen verbindet. Entwickelt derzeit KI-Therapiedokumentation bei iptas. Veröffentlichte Forschung zu KI in therapeutischen Settings (Verhaltenstherapie, 2025) und zur Legitimierung von Predictive Policing. Zuvor Forschung zu Speech-to-Text-Modellen für Psychotherapie am Otto-Selz-Institut und technische Infrastrukturleitung bei der Free Software Foundation Europe, Gewinner des EU Datathon 2022 (€25.000). Hintergrund in Internationalen Beziehungen mit Lebenserfahrung in Manchester, Paris und Berlin."
+summary = """Ich bin Software-Ingenieur und Psychologie-Student und verbinde technisches Fachwissen mit psychologischen Erkenntnissen. Aktuell entwickle ich bei iptas KI-gestützte Therapiedokumentation – Tools, die Therapeut*innen helfen, weniger Zeit mit Papierkram und mehr Zeit mit ihren Klient*innen zu verbringen.
+
+Ich habe zu KI in therapeutischen Settings geforscht und publiziert (Verhaltenstherapie, 2025) und zur Legitimierung von Predictive Policing. Bevor ich mich der Psychologie zugewandt habe, habe ich mehrere Jahre in der Free-Software-Welt verbracht, die technische Infrastruktur der Free Software Foundation Europe geleitet und den EU Datathon 2022 mit einem Preisgeld von €25.000 gewonnen.
+
+Mein Weg hat mich durch ein Studium der Internationalen Beziehungen in Berlin, Manchester und Paris geführt. Das hat mich gelehrt, über die breiteren gesellschaftlichen Auswirkungen von Technologie nachzudenken – etwas, das heute sowohl meine Software-Entwicklung als auch mein therapeutisches Arbeiten prägt."""
 
 personal_website_url = "https://exocortex.sehn.dev"
 personal_website_title = "Exocortex"

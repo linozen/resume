@@ -210,6 +210,14 @@ body {
     color: var(--text-color);
 }
 
+.summary p {
+    margin-bottom: 1rem;
+}
+
+.summary p:last-child {
+    margin-bottom: 0;
+}
+
 /* Timeline - for chronological work/education */
 .timeline {
     display: flex;
