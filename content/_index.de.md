@@ -10,7 +10,7 @@ initials = "LZ"
 location = "Mannheim, Deutschland"
 location_link = "https://www.google.com/maps/place/Mannheim"
 
-about = "Systemingenieur mit Schwerpunkt auf psychologische Anwendungen, studiert derzeit Psychologie um Psychotherapeut zu werden."
+about = "Software-Ingenieur und Psychologie-Student auf dem Weg zum Psychotherapeuten."
 
 summary = """Ich bin Software-Ingenieur und Psychologie-Student und verbinde technisches Fachwissen mit psychologischen Erkenntnissen. Aktuell entwickle ich bei iptas KI-gestützte Therapiedokumentation – Tools, die Therapeut*innen helfen, weniger Zeit mit Papierkram und mehr Zeit mit ihren Klient*innen zu verbringen. Darüber hinaus arbeiten wir daran, die Qualität von Therapie selbst zu verbessern, indem wir die neueste Forschung direkt in die therapeutische Praxis integrieren.
 

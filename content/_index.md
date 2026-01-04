@@ -10,7 +10,7 @@ initials = "LZ"
 location = "Mannheim, Germany, CET"
 location_link = "https://www.google.com/maps/place/Mannheim"
 
-about = "Software engineer specializing in psychology applications, currently studying psychology to become a psychotherapist."
+about = "Software engineer and psychology student training to become a psychotherapist."
 
 summary = """I'm a software engineer and psychology student who bridges technical expertise with psychological insights. My current work focuses on developing AI-powered therapy documentation at iptas, where I'm building tools that help therapists spend less time on paperwork and more time with their clients. Beyond documentation, we're working to improve the quality of therapy itself by integrating the newest research directly into therapeutic practice.
 
