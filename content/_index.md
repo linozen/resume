@@ -16,7 +16,7 @@ summary = """I'm a software engineer and psychology student who bridges technica
 
 I've published research on using AI in therapeutic settings (Verhaltenstherapie, 2025) and co-authored work on the legitimization of predictive policing. Before diving into psychology, I spent several years in the free software world, leading technical infrastructure at the Free Software Foundation Europe and winning the EU Datathon 2022 with a €25,000 prize.
 
-My path has taken me through International Relations studies in Berlin, Manchester, and Paris, which taught me to think about technology's broader social implications—something that now informs how I approach both software development and therapeutic practice."""
+My path has taken me through Politics, Philosophy & Economics in Manchester, then International Relations in Berlin with a focus on surveillance studies. This engagement with technology's broader social implications now informs how I approach both software development and my training as a psychotherapist."""
 
 personal_website_url = "https://exocortex.sehn.dev"
 personal_website_title = "Exocortex"
