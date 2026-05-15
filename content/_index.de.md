@@ -16,7 +16,7 @@ summary = """Software-Ingenieur und Psychologie-Student – an dieser Schnittste
 
 Veröffentlicht habe ich zu KI in therapeutischen Settings (Verhaltenstherapie, 2025) und als Co-Autor zur Legitimierung von Predictive Policing. Bevor der Wechsel zur Psychologie kam, verbrachte ich mehrere Jahre in der Free-Software-Welt, leitete die technische Infrastruktur der Free Software Foundation Europe und gewann den EU Datathon 2022 mit einem Preisgeld von €25.000.
 
-Mein Weg führte durch ein Studium der Politik, Philosophie und Volkswirtschaftslehre in Manchester, dann Internationale Beziehungen in Berlin mit Schwerpunkt auf Surveillance Studies. Diese Auseinandersetzung mit den breiteren gesellschaftlichen Auswirkungen von Technologie prägt heute sowohl meine Software-Entwicklung als auch meine Ausbildung zum Psychotherapeuten."""
+Mein Weg begann mit einem Studium der Politik, Philosophie und Volkswirtschaftslehre in Manchester, mit Schwerpunkt auf Surveillance Studies. Diese Auseinandersetzung mit den breiteren gesellschaftlichen Auswirkungen von Technologie prägt heute sowohl meine Software-Entwicklung als auch meine Ausbildung zum Psychotherapeuten."""
 
 personal_website_url = "https://exocortex.sehn.dev"
 personal_website_title = "Exocortex"
@@ -31,12 +31,6 @@ school = "Universität Mannheim"
 degree = "BSc in Psychologie"
 start = "2023"
 end = "2026"
-
-[[extra.education]]
-school = "FU Berlin, HU Berlin, Universität Potsdam"
-degree = "MA in Internationalen Beziehungen"
-start = "2017"
-end = "2022"
 
 [[extra.education]]
 school = "University of Manchester"

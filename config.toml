@@ -8,7 +8,6 @@ build_search_index = false
 default_language = "en"
 
 [markdown]
-highlight_code = false
 
 [translations]
 about_section = "About"
